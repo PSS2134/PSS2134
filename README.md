@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Priyansh</h1>
+<h1 align="center">Hi, I'm Priyansh</h1>
 <img align="right" src = "https://github.com/user-attachments/assets/623ccb9b-cef1-46eb-bf87-d1acf95f54a2" height="250px" width="250px" margin="10px"></img>
 <!-- ![download](https://github.com/user-attachments/assets/623ccb9b-cef1-46eb-bf87-d1acf95f54a2) -->
 
