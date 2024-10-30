@@ -4,6 +4,7 @@
 
 - 🌱 Currently learning **DevOps...**
 - 💬 Love Discussions on **Node.js, Express.js, React.js, GO, Cloud, DevOps**
+- 🎓 Final Year Student at IIT Guwahati
 - 📫 How to reach me **priyanshs18171819@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
