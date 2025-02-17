@@ -2,7 +2,7 @@
 <img align="right" src = "https://github.com/user-attachments/assets/623ccb9b-cef1-46eb-bf87-d1acf95f54a2" height="250px" width="250px" margin="10px"></img>
 <!-- ![download](https://github.com/user-attachments/assets/623ccb9b-cef1-46eb-bf87-d1acf95f54a2) -->
 
-- 🌱 Currently learning **DevOps...**
+- 🌱 Currently learning **WEB3**
 - 💬 Love Discussions on **Node.js, Express.js, React.js, GO, Cloud, DevOps**
 - 🎓 Final Year Student at IIT Guwahati
 - 📫 How to reach me **priyanshs18171819@gmail.com**
